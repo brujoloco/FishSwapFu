@@ -26,6 +26,13 @@ It has a single word of text depending on what you wielding:
 4. you can disable the icon as well, you maniac.
 5. a fish here, imagine it.
 
+## Installation
+
+Dont be lazy and just add the repository, here for the ultra lazy : https://github.com/brujoloco/FishSwapFu.git
+
+If you are a maniac and want to do it manually like in the olden days, download file, remove the master from the unpacked folder,
+drop in your addons directory, enable in game.
+
 
 What else can I say?  MIT LICENSE, any bugs report it , yadda yadda
 
